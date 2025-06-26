@@ -1,2 +1,22 @@
 Free download JDK-https://www.techspot.com/downloads/5198-java-jre.html
 Free Download Eclipse - https://eclipseide.org/
+
+JDK path set:
+copy path : C:\Program Files\Java\jdk1.8.0_191\bin
+
+This PC -> right click -> properties->
+advanced system settings -> environment variables->
+user variable -> select path -> click on edit and new -> paste your path
+system variable -> select path -> click on edit and new -> paste your path
+->click on OK -> finish
+
+
+Open Your CMD
+1) javac
+2) java --version
+
+
+
+
+
+
