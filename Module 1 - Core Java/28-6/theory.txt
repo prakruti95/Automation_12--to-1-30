@@ -1,0 +1,24 @@
+data type:
+
+integer - int - numeric value
+float - float - decimal value [capacity - 4 byte]
+character - char - single charcater
+double - double - decimal value[capacity - 8 byte]
+string - string - accepts all things
+boolean -bool - true,false
+long - long - lengthy value
+
+
+variable declaration:
+
+1)
+data_type v_name = value;
+int fees=10000;
+
+1)Arithmetic Operator:+,-,*,/,%
+
+-> java is a case sensitive language
+
+
+
+
