@@ -1,0 +1,13 @@
+Conditions:
+
+conditional statement:
+if
+else if
+else
+nested if
+switch,case,break
+
+if(condition)
+{
+	statement
+}
