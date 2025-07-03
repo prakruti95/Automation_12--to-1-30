@@ -1,0 +1,53 @@
+Loop:
+There are two type of loops
+1)Entry Control Loop:
+1) for:
+ 
+	for(initialization;condition;incre/decre)
+	{
+		
+	}
+
+
+
+2) while:
+
+initialization;
+
+
+while(condition)
+{
+	statements
+	incre/decre
+}
+
+
+
+2)Exit Control Loop
+
+
+
+1) do while:
+initialization;
+
+
+do
+{
+	statements
+	incre/decre
+}
+while(condition);
+
+
+num=1234
+ans:10
+
+Userinput
+
+
+
+
+
+
+
+
