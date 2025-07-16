@@ -1,0 +1,15 @@
+class - Emp
+
+data member:
+id
+name
+surname
+email
+salary
+
+value user input 
+
+print
+
+2 Emp
+
