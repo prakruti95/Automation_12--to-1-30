@@ -1,0 +1,17 @@
+Wrapper class:
+
+int-data type
+Integer - Wrapper class
+
+Array: Collections of Elements that  is called Array
+Array's index will always start from 0.
+Types of Array:
+
+1)One 
+[]
+
+2)Two
+[][]
+
+Multi
+[][][][][][][][]
