@@ -1,0 +1,24 @@
+1.signup 
+
+API type : POST
+params:username,password,mobileno,identifier
+result:blank or 0
+
+2.login
+
+Api type : POST
+Params: password,mobileno
+result : 
+200 -> success
+0 -> fail
+
+3.category_view
+Api type : GET
+
+4.category_images_view
+Api TYPE : GET
+param:data
+
+
+
+
