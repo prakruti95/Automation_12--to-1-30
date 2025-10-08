@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="crossbrowser.MyTest">
+      <class name="listener.FbTest">
         <methods>
-          <include name="test"/>
+          <include name="titleCheck" invocation-numbers="0"/>
         </methods>
-      </class> <!-- crossbrowser.MyTest -->
+      </class> <!-- listener.FbTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
