@@ -56,6 +56,10 @@ public class MainActivity
 //				            ".scrollIntoView(new UiSelector().text(\"Albania\"));"
 //				    )
 //				).click();
+		 
+		 	CartActivity a = new CartActivity();
+			a.screen2();
+			
 	}
 	
 
